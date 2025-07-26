@@ -29,12 +29,14 @@ Programs are (or will be) organized into:
     ```bash
     python filename.py
 
-💡 Why this Repo?
-This is my personal Python learning diary 📓
-I’m documenting everything I learn through examples and problems so I can look back, improve, and help other learners like me.
+## 📌 Why this Repo?
+This repository serves as a personal learning log of my journey into Python programming.
+Here, I experiment with different Python concepts — from basic syntax to intermediate topics — through practical examples and exercises.
 
-Feel free to explore, fork, or suggest improvements!
+Whether you’re also a beginner, a student revising fundamentals, or just exploring how others practice Python, feel free to explore, fork, or contribute!
 
-📬 Connect
-I'm always happy to connect with fellow coders!
-Follow me on GitHub: @RoshmiCodes
+## 📬 Connect
+I'm always up for sharing and learning together!
+If you enjoyed browsing this repo or want to connect over coding, you can follow me here:
+
+**GitHub: @RoshmiCodes**
